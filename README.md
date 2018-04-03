@@ -1,5 +1,7 @@
 # Working Group on Oceanic Hydrography
 
+http://www.ices.dk/community/groups/Pages/WGOH.aspx
+
 ICES Working Group on Oceanic Hydrography (WGOH) closely monitors the ocean conditions in the ICES area by updating and reviewing results from standard hydrographic sections and stations.
 
 The material presented at the WGOH meetings each year is consolidated and published as the annual ICES Report on Ocean Climate (IROC).
