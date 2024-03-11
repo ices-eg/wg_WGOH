@@ -29,3 +29,24 @@ This is document describes the technical detail behind the time series included 
 6. North-West European Shelf
 7. Baltic Sea
 8. Biscay, Iberia and Canaries
+
+## Example Timeseries Section
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
