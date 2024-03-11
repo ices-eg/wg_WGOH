@@ -18,3 +18,16 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Central Skagerrak,,,
+Region:,9,,,
+Latitude:,58.1333 N,,,
+Longitude:,9.1833 E,,,
+Measurement Depth/Range:,Surface-water,0-10m,,
+Averaging Method:,Five surface stations,Monthly anomalies,,
+Notes:,Central Skagerrak surface water.,,,
+Data Source:,IMR - Institute of Marine Research - Norway,,,
+Contact Name (email):,Jon Albretsen (jon.albretsen@imr.no),,,
+Location of source datasets:,IMR - Institute of Marine Research - Norway,,,
+Data Protection:,Include on ICES website for free distribution.,,,

@@ -18,3 +18,16 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Cabot Strait Sea Ice,
+Region:,Scotian Shelf,
+Latitude:,46.5 N,
+Longitude:,58.5 W,
+Measurement Depth/Range:,Surface,
+Sampling Frequency:,Seasonal,
+Notes:,Seasonal average (JFMA) and maximum weekly sea ice area seaward of Cabot Strait,
+Data Source:,Department of Fisheries and Oceans - Canada,
+Contact Name (email):,David Hebert (David.Hebert@dfo-mpo.gc.ca),
+Location of source datasets:,Department of Fisheries and Oceans - Canada,
+Data Protection:,Include on ICES website for free distribution.,

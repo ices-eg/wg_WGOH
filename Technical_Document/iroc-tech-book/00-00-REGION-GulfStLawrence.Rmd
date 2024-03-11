@@ -18,3 +18,15 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Gulf Of St Lawrence,,,,
+Region:,Gulf Of St Lawrence,,,,
+Latitude:,48.5 N,,,,
+Longitude:,61.0 W,,,,
+Measurement Depth/Range:,Surface,,,,
+Sampling Frequency:,Seasonal,,,,
+Data Source:,Department of Fisheries and Oceans - Canada,,,,
+Contact Name (email):,Peter Galbraith (Peter.Galbraith@dfo-mpo.gc.ca),,,,
+Location of source datasets:,Maurice Lamontagne Institute - Department of Fisheries and Oceans - Canada,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,

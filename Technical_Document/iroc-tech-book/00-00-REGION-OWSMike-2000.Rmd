@@ -18,3 +18,19 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Ocean Weather Station Mike,,,,,
+Region:,Norwegian Sea,,,,,
+Latitude:,66 N,,,,,
+Longitude:,2 E,,,,,
+Measurement Depth/Range:,2000 m,1,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean:,-0.83,34.913,,,,
+Standard Deviation:,0.04,0.002,,,,
+Averaging method:,T and S is annual mean and anomalies are calculated from annual mean.,,,,,
+Notes:,,,,,,
+Data Source:,Institut of Marine Research Bergen - Norway,,,,,
+Contact Name (email):,Svein Østerhus (Svein.Osterhus@norceresearch.no),,,,,
+Location of source datasets:,Norwegian Marine Data Centre Bergen - Norway,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

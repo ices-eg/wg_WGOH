@@ -18,3 +18,25 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Southern Norwegian Sea -  Svinoy Section - Atlantic Water,,,,,
+Region:,Norwegian Sea,,,,,
+Latitude:,63 N,,,,,
+Longitude:,3 E,,,,,
+Measurement Depth/Range:,50-200 m,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean:,8.23,35.238,,,,
+Standard Deviation:,0.337,0.0506,,,,
+Area:,LINESTRING(2.6 63.1, 3.5 63.5),,,,
+Spatial Coverage:,Data is collected from three stations at the Svinoy section
+Vertical Coverage:,Data are measurements from 50-200 m depth
+Temporal Coverage:,4-5 occupations per year
+Seasonal Cycle:,Seasonal cycle has been removed
+Annual Calculations:,Annual data is extracted from filtered data using one year running mean,,,,,
+Reference:Blindheim and Loeng (1981). On the variability of Atlantic influence in the Norwegian and Barents Seas. Fiskeridirektoratets Skrevne Serie for Havundersøkelser, 17,161-189.
+Notes:,Data are annual averages from cruises in January March/April May July/Aug and November,,,,,
+Data Source:,IMR - Institute of Marine Research - Norway,,,,,
+Contact Name (email):,Kjell Arne Mork (kjell.arne.mork@imr.no),,,,,
+Location of source datasets:,IMR - Institute of Marine Research - Norway,,,,,
+Data Protection:,Include on ICES website for free distribution. ,,,,,

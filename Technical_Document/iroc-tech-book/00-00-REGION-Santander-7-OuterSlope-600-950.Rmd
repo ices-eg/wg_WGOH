@@ -18,3 +18,16 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Santander Station 7 (Outer Slope) - Bay of Biscay - Spain,
+Region:,Bay of Biscay and the Iberian Coast,
+Latitude:,43.7998 N,
+Longitude:,3.7838 W,
+Measurement Depth/Range:,600-950 m,
+Sampling Frequency:,,
+Notes:,,
+Data Source:,IEO-CSIC Instituto Espanol de Oceanografia - Spanish Institute of Oceanography - Spain,
+Contact Name (email):,Cesar Gonzalez-Pola (cesar.pola@ieo.csic.es) ,
+Location of source datasets:,IEO-CSIC - Instituto Espanol de Oceanografia - Spanish Institute of Oceanography ,
+Data Protection:,Include on ICES website for free distribution. ,

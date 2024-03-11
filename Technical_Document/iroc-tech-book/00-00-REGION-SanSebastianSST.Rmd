@@ -18,3 +18,23 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+
+Station Description:,San Sebastian Sea Surface Temperature - Spain,,
+Region:,Bay of Biscay and the Iberian waters,,
+Latitude:,43.3240 N,,
+Longitude:,1.9913 W,,
+Measurement Depth/Range:,0 m,,
+Long Term Averaging Period:,1991-2020,,
+Long Term Mean:,16.37,,
+Standard Deviation:,0.49,,
+Spatial Coverage:,Data are collected from a fixed coastal station,,
+Vertical  Coverage:,Data represent temperature at sea surface,,
+Temporal Coverage:,SST is measured in a nearly daily basis at 10 a.m. (local time),,
+Averaging Method:,Annual data are the arithmetic mean of daily data provided that 80% of daily data is available,,
+Notes:,,,
+Data Source:,Aquarium of San Sebastian (Oceanographic Society of Gipuzkoa and Oceanographic Foundation of Gipuzkoa) - Spain,,
+Contact Name (email):,Almudena Fontán (afontan@azti.es),,
+Location of source datasets:,Aquarium of San Sebastian (Spain),,
+Data Protection:,Include on ICES website for free distribution.,,

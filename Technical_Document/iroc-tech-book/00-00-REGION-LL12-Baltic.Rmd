@@ -1,4 +1,4 @@
-## Timeseries 1
+## Baltic Sea  - LL12
 
 **Description:** 
 
@@ -18,3 +18,18 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Region:,Baltic Sea,,,,,
+Latitude:,59.48 N,,,,,
+Longitude:,22.90 E,,,,,
+Measurement Depth/Range:,75 m,,,,,
+Long Term Averaging Period:,1981-2010,1981-2010,,,,
+Long Term Mean:,4.47,8.761,,,,
+Standard Deviation:,0.88,1.094,,,,
+Averaging Method:,Seasonal mean,,,,,
+Notes:,,,,,,
+Data Source:,FMI - Finnish Meteorological Institute - Finland,,,,,
+Contact Name (email):,Pekka Alenius (pekka.alenius@fmi.fi),,,,,
+Location of source datasets:,FMI - Finnish Meteorological Institute - Finland,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

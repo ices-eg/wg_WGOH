@@ -18,3 +18,25 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Greenland Sea section - West of Spitsbergen 76.5N,,,,,
+Region:,Barents Sea,,,,,
+Latitude:,76.5 N,,,,,
+Longitude:,10.5 E,,,,,
+Measurement Depth/Range:,200 m,,,,,
+Long Term Averaging Period:,1996-2020,1996-2020,,,,
+Long Term Mean:,3.398,35.070,,,,
+Standard Deviation:,0.567,0.044,,,,
+Area:,"LINESTRING(9 76.5, 12 76.5)",,,,,
+Spatial Coverage:,All stations at the 76°30'N section located between 9 and 12°E,,,,,
+Vertical Coverage:,Data at the depth of 200 m,,,,,
+Temporal Coverage:,Once per year in July,,,,,
+Seasonal Cycle:,Not removed,,,,,
+Averaging Method:,Measured once per year,,,,,
+Reference:,Walczowski et al. (2017). Oceanographic observations in the Nordic Sea and Fram Strait in 2016 under the IO PAN long-term monitoring program AREX. Oceanologia, 59(2), 187-194.,,,
+Notes:,Mean T and S from section average (9E to 12E) from July cruise, usually 5 stations,,,,
+Data Source:,IOPAS - Institute of Oceanology Polish Academy of Sciences - Poland,,,,,
+Contact Name (email):,Waldemar Walczowski (walczows@iopan.gda.pl),,,,,
+Location of source datasets:,IOPAS - Institute of Oceanology Polish Academy of Sciences - Poland,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

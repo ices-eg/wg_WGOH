@@ -18,3 +18,19 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Langanes Station 2-6 - North East Iceland - East Icelandic Current - Spring,,,,,
+Region:,3,,,,,
+Latitude :,67.5 N,,,,,
+Longitude:,13.5 W,,,,,
+Measurement Depth/Range:,0-50 m,,,,,
+Long Term Averaging Period:,1991-2020,1981-2010,,,,
+Long Term Mean :,1.47,34.749,,,,
+Standard Deviation:,0.7,0.068,,,,
+Averaging method:,Average over 0-50 m and stations 2 to 6 in spring (alias May),,,,,
+Notes:,,,,,,
+Data Source:,Hafrannsoknastofnun - Iceland - Marine Research Institute,,,,,
+Contact Name (email):,Solveig R. Olafsdottir (solveig.rosa.olafsdottir@hafogvatn.is),Magnus Danielsen (magnus.danielsen@hafogvatn.is),,,,
+Location of source datasets:,Hafrannsoknastofnun - Iceland - Marine Research Institute,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

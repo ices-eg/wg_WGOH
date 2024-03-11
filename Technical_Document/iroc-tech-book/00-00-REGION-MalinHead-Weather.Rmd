@@ -18,3 +18,19 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Malin Head Weather Station,,
+Region:,Celtic Seas,,
+Latitude:,55.37 N,,
+Longitude:,7.34 W,,
+Measurement Depth/Range:,Surface,,
+Long Term Averaging Period:,1991-2020,,
+Long Term Mean:,10.78,,
+Standard Deviation:,0.45,,
+Averaging method:,Data T is annual mean anomalies calculated by subtracting long term mean from annual mean,,
+Notes:,,,
+Data Source:,Marine Institute/Met Eireann - Ireland,,
+Contact Name (email):,Kieran Lyons (kieran.lyons@marine.ie),,
+Location of source datasets:,Marine Institute/Met Eireann - Ireland,,
+Data Protection:,Include on ICES website for free distribution. ,,

@@ -18,3 +18,19 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Georges Basin -  - Canada,,,
+Region:,Scotian Shelf,,,
+Latitude:,42.5 N,,,
+Longitude:,67 W,,,
+Measurement Depth/Range:,200 m (Near Bottom),,,
+Long Term Averaging Period:,1991-2020,1991-2020,,
+Long Term Mean:,8.76753,34.9179,,
+Standard Deviation:,0.68057,0.12957,,
+Averaging method:,,,,
+Notes:,Georges 200 annual (anomalies references to 1991-2020),,,
+Data Source:,Department of Fisheries and Oceans - Canada,,,
+Contact Name (email):,David Hebert (David.Hebert@dfo-mpo.gc.ca),,,
+Location of source datasets:,Department of Fisheries and Oceans - Canada,,,
+Data Protection:,Include on ICES website for free distribution.,,,

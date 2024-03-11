@@ -18,3 +18,19 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description,Cape Desolation Section - Station 3 - Greenland Shelf,,,,,
+Region:,West Greenland,,,,,
+Latitude,60.47 N,,,,,
+Longitude,50.00 W,,,,,
+Measurement Depth/Range,75-200 m,0,,,,
+Long Term Averaging Period,1991-2020,1991-2020,,,,
+Long Term Mean,5.95,34.939,,,,
+Standard Deviation,0.54,0.048,,,,
+Averaging method,,,,,,
+Notes: ,,,,,,
+Data Source:,Thünen-Institut für Seefischerei - Germany - Thünen Institute of Sea Fisheries,,,,,
+Contact Name (email):,Boris Cisewski (boris.cisewski@thuenen.de),,,,,
+Location of source datasets:,Thünen-Institut für Seefischerei - Germany - Thünen Institute of Sea Fisheries or German NODC or WOD,,,,,
+Data Protection:,Include on ICES website for free distribution,,,,,

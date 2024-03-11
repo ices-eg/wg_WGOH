@@ -18,3 +18,25 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Extended Ellett Line - Rockall Trough,,,,,
+Region:,Rockall Trough,,,,,
+Latitude:,57.5 N,,,,,
+Longitude:,11.00 W,,,,,
+Measurement Depth/Range:,Upper Ocean 30-800m,,,,,
+Area:,"LINESTRING(-13.6 57.6,-11.1 57.5,-8.0 57.8)",,,,,
+Spatial coverage:,Data are collected from a fixed set of stations between the Scottish continental shelf break and Rockall,,,,,
+Vertical coverage:,Data within potential density range sigma_zero = 27.20 to 27.50 kg/m**3 equating to approximately 30 m to 800 m depth,,,,,
+Temporal coverage:,1 occupation per year (spring/summer) since 1996; 1 to 6 times per year from 1975 to 1996,,,,,
+Seasonal cycle:,"No adjustment for seasonal cycle, because cycle is not sufficiently well defined by the data set",,,,,
+Reference:,"Holliday N.P. et al, 2015. Multidecadal variability of potential temperature, salinity and transports in the eastern subpolar North Atlantic. Journal of Geophysical Research: Oceans, 120(9), 5945-5967, 10.1002/2015JC010762.",,,,,
+Notes:,http://projects.noc.ac.uk/ExtendedEllettLine/home,,,,,
+Data Source:,National Oceanography Centre and Scottish Association for Marine Science - UK,,,,,
+Contact Name (email):,Sam Jones (sam.jones@sams.ac.uk),,,,,
+Location of source datasets:,British Oceanographic Data Centre,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean:,9.416785714,35.3515,,,,
+Standard Deviation:,0.263973253,0.043361956,,,,
+Averaging Method:,mean of all data each year,,,,,

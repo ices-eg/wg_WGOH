@@ -18,3 +18,24 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,NE US Continental Shelf - Northern Middle Atlantic Bight,,,,,
+Region:,Northeast US Continental Shelf,,,,,
+Latitude:,40 N,,,,,
+Longitude:,71 W,,,,,
+Measurement Depth/Range:,1-30 m,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean:,11.54,32.72,,,,
+Standard Deviation:,1.04,0.42,,,,
+Area:,"POLYGON((-74.00 40.50, -72.00 39.50, -71.40 40.00, -69.50 40.00, -69.50 41.00, -70.00 41.10, -72.00 41.00, -74.00 40.50))",,,,,
+Spatial Coverage:,Station coverage varies spanning the prescribed polygon 
+Vertical Coverage:,Data represents average over 1-30m,,,,,
+Temporal Coverage:,Typically 3-6 surveys per year
+Seasonal Cycle:,A reference annual cycle is constructed for sub-region by fitting an annual harmonic to the collection of regional mean values from the period 1991-2020. Regional anomalies are calculated as the difference between the regional mean values and this reference annual cycle
+Averaging Method:,Regional T and S anomalies are calculated relative to a 1991-2020 seasonal cycle and annually averaged
+Notes:,Regional average T/S are are volume-weighted average of observations from single synoptic survey; subsequently averaged annually
+Data Source:,NOAA Fisheries - NEFSC - Oceans and Climate Branch - USA,,,,,
+Contact Name (email):,Paula Fratantoni (paula.fratantoni@noaa.gov),,,,,
+Location of source datasets:,Woods Hole - MA - USA,,,,,
+Data Protection:,Include on ICES website for free distribution. ,,,,,

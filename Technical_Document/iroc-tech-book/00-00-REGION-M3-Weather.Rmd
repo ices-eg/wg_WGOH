@@ -18,3 +18,19 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,M3 Marine Weather Buoy,,
+Region:,Celtic Seas,,
+Latitude:,51.22 N,,,
+Longitude:,10.55 W,,,
+Measurement Depth/Range:,Surface,,
+Long Term Averaging Period:,2003-2020,,
+Long Term Mean:,13.06,,
+Standard Deviation:,0.24,,
+Averaging method:,Data T is annual mean anomalies calculated by subtracting long term mean from annual mean,,
+Notes:,,,
+Data Source:,Marine Institute Ireland,,
+Contact Name (email):,Kieran Lyons (kieran.lyons@marine.ie),,
+Location of source datasets:,Marine Institute Ireland,,
+Data Protection:,Include on ICES website for free distribution. ,,

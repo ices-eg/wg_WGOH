@@ -18,3 +18,19 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Faroe Current - North Faroe Islands (Modified North Atlantic Water),,,,,,,,,,,,,,,,
+Region:,6,,,,,,,,,,,,,,,,
+Latitude:,63 N,,,,,,,,,,,,,,,,
+Longitude:,6 W,,,,,,,,,,,,,,,,
+Measurement Depth/Range:,Upper Layer High Salinity Core,,,,,,,,,,,,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,,,,,,,,,,,,
+Long Term Mean:,8.152,35.240,,,,,,,,,,,,,,,
+Standard Deviation:,0.359,0.051,,,,,,,,,,,,,,,
+Averaging Method:,Mean of all data each year,,,,,,,,,,,,,,,,
+Notes:,Upper Layer High Salinity Core - Seasonality Removed,,,,,,,,,,,,,,,,
+Data Source:,Havstovan - Faroe - Faroe Marine Research Institute,,,,,,,,,,,,,,,,
+Contact Name (email):,Karin Margretha H. Larsen (KarinL@hav.fo),,,,,,,,,,,,,,,,
+Location of source datasets:,Havstovan - Faroe - Faroe Marine Research Institute,,,,,,,,,,,,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,,,,,,,,,,,,

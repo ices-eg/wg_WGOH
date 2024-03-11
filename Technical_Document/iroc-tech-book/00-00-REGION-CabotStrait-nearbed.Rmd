@@ -18,3 +18,19 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Cabot Strait -  - Canada,,,
+Region:,Scotian Shelf,,,
+Latitude:,47.3 N,,,
+Longitude:,60.3 W,,,
+Measurement Depth/Range:,200 - 300 m (Near Bottom),,,
+Long Term Averaging Period:,1991-2020,1991-2020,,
+Long Term Mean:,5.69997,34.44911,,
+Standard Deviation:,0.65045,0.10838,,
+Averaging method:,,,,
+Notes:,Cabot 200to300 annual (anomalies references to 1991-2020),,,
+Data Source:,Department of Fisheries and Oceans - Canada,,,
+Contact Name (email):,David Hebert (David.Hebert@dfo-mpo.gc.ca),,,
+Location of source datasets:,Department of Fisheries and Oceans - Canada,,,
+Data Protection:,Include on ICES website for free distribution.,,,

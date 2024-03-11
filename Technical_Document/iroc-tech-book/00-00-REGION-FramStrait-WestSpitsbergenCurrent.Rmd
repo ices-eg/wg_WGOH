@@ -18,3 +18,19 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Fram Strait - West Spitsbergen Current,,,,,
+Region:,12,,,,,
+Latitude:,78.83 N,,,,,
+Longitude:,7 E,,,,,
+Measurement Depth/Range:,50-500 m,,,,,
+Long Term Averaging Period:,1993-2020,1993-2020,,,,
+Long Term Mean:,3.253,35.038,,,,
+Standard Deviation:,0.607,0.035,,,,
+Averaging Method:,Once per year,,,,,
+Notes:,Section Average 5 E to Shelf edge,,,,,
+Data Source:,AWI - Alfred Wegener Institute for Polar and Marine Research - Germany and IOPAN - Institute of Oceanology Polish Academy of Sciences - Poland,,,,,
+Contact Name (email):,Wilken Jon von Appen (wjvappen@awi.de) and Agnieszka Beszczynska-M_ller (abesz@iopan.gda.pl),,,,,
+Location of source datasets:,AWI - PANGAEA data base and IOPAN - IOPAN data base,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

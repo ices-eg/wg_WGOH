@@ -18,3 +18,19 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Central Skagerrak,,,
+Region:,9,,,
+Latitude:,57.9333 N,,,
+Longitude:,9.4500 E,,,
+Measurement Depth/Range:,Deep-water,100-200m,,
+Long Term Averaging Period:,1981-2010,,,
+Long Term Mean:,7.149,35.086,,
+Standard Deviation:,0.869,0.125,,
+Averaging Method:,Values at 100, 150 and 200m,Monthly anomalies,
+Notes:,Skagerrak deep-water properties, Atlantic inflow north of Jutland (100-200m).,,
+Data Source:,IMR - Institute of Marine Research - Norway,,,
+Contact Name (email):,Jon Albretsen (jon.albretsen@imr.no),,,
+Location of source datasets:,IMR - Institute of Marine Research - Norway,,,
+Data Protection:,Include on ICES website for free distribution.,,,

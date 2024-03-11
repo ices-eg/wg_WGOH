@@ -18,3 +18,19 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Modelled North Sea Inflow,,
+Region:,8&9,,
+Latitude:,59 N,,
+Longitude:,1 E,,
+Measurement Depth/Range:,Depth Averaged,,
+Long Term Averaging Period:,1985-2010,,
+Long Term Mean:,-1.2020,1.5224,0.3205
+Standard Deviation:,0.1149,0.1371,0.0310
+Averaging method:,Annual Mean Modelled Volume Transport between Orkney - Scotland and Utsira - Norway ,,
+Notes:,Modelled Volume Transport between Orkney - Scotland and Utsira - Norway (-Inflow is flow in a southwards direction. +Outflow is flow in a northward direction, +NetFlow is flow in a northward direction) Units Svedrup 10^6m^3/s,
+Data Source:,IMR - Institute of Marine Research - Norway,,
+Contact Name (email):,Jon Albretsen (jon.albretsen@imr.no),,
+Location of source datasets:,IMR - Institute of Marine Research - Norway,,
+Data Protection:,Include on ICES website for free distribution.,,

@@ -18,3 +18,19 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,North Sea Utsire A,,,,,
+Region:,8&9,,,,,
+Latitude:,59 N,,,,,
+Longitude:,0.5 E,,,,,
+Measurement Depth/Range:,Nearbed,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean:,6.91,35.224,,,,
+Standard Deviation:,0.51,0.068,,,,
+Averaging Method:,,,,,,
+Notes:,Nearbed temperature minimum and salinity at northwestern part of the north sea.,,,,,
+Data Source:,IMR - Institute of Marine Research - Norway,,,,,
+Contact Name (email):,Jon Albretsen (jon.albretsen@imr.no),,,,,
+Location of source datasets:,IMR - Institute of Marine Research - Norway,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

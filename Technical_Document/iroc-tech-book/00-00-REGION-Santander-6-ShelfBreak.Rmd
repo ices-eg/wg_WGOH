@@ -18,3 +18,20 @@
 ### Quality assurance
 
 ### Data analysis
+
+### Header from file
+Station Description:,Santander Station 6 (Shelf Break) - Bay of Biscay - Spain,,,,,
+Region:,Bay of Biscay and the Iberian Coast,,,,,
+Latitude:,43.7083 N,,,,,
+Longitude:,3.7835 W,,,,,
+Measurement Depth/Range:,0-30 m,,,,,
+Long Term Averaging Period:,1993-2020,1993-2020,,,,
+Long Term Mean:,15.82,35.46,,,,
+Standard Deviation:,0.32,0.17,,,,
+Averaging method:,Vertical average of upper 30 m (summer mixed layer),,,,,
+Sampling Frequency:,Monthly,,,,,
+Notes:,Vertical average of upper 30 m (summer mixed layer),,,,,
+Data Source:,IEO-CSIC Spanish Institute of Oceanography www.ieo.es - Spain,,,,,
+Contact Name (email):,Cesar Gonzalez-Pola (cesar.pola@ieo.csic.es),,,,,
+Location of source datasets:,IEO-CSIC Spanish Institute of Oceanography - Santander - Spain,,,,,
+Data Protection:,Include on ICES website for free distribution. ,,,,,
