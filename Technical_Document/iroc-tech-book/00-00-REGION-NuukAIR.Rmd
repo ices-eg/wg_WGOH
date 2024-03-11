@@ -1,4 +1,4 @@
-## Timeseries 1
+## Greenland - Nuuk Air Temperature
 
 **Description:** 
 
