@@ -1,0 +1,42 @@
+## Norwegian Sea - Sorkapp Section - Atlantic Water
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Northern Norwegian Sea - Sorkapp Section - Atlantic Water,,,,,
+Region:,Norwegian Sea,,,,,
+Latitude:,76.33 N,,,,,
+Longitude:,10 E,,,,,
+Measurement Depth/Range:,50-200 m,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean:,4.38,35.079,,,,
+Standard Deviation:,0.465,0.040,,,,
+Area:,LINESTRING(8.3 76.3,12.2 76.3)
+Spatial Coverage:,Data is collected from three stations at the Sorkapp section
+Vertical Coverage:,Data are measurements from 50-200 m depth
+Temporal Coverage:,1 occupation per year
+Reference:,Blindheim and Loeng (1981). On the variability of Atlantic influence in the Norwegian and Barents Seas. Fiskeridirektoratets Skrevne Serie for Havundersøkelser, 17,161-189.
+Seasonal Cycle:,
+Averaging Method:,None,,,,,
+Notes:,Temperature and salinity values are averaged over three stations,,,,,
+Data Source:,IMR - Institute of Marine Research - Norway,,,,,
+Contact Name (email):,Kjell Arne Mork (kjell.arne.mork@imr.no),,,,,
+Location of source datasets:,IMR - Institute of Marine Research - Norway,,,,,
+Data Protection:,Include on ICES website for free distribution. ,,,,,

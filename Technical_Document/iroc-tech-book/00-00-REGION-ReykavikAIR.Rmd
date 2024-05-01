@@ -1,0 +1,36 @@
+## Reykavik Air Temperature
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Reykavik Air Temperature,,
+Region:,3,,
+Latitude :,64.08 N,,
+Longitude:,21.54 W,,
+Measurement Depth/Range:,,,
+Long Term Averaging Period:,1991-2020,,
+Long Term Mean :,5.1,,
+Standard Deviation:,0.6,,
+Averaging method:,,,
+Notes:,,,
+Data Source:,Hafrannsoknastofnun - Iceland - IcelandicMetoffice via Marine Research Institute,,
+Contact Name (email):,Solveig R. Olafsdottir (solveig.rosa.olafsdottir@hafogvatn.is),Magnus Danielsen (magnus.danielsen@hafogvatn.is),
+Location of source datasets:,Hafrannsoknastofnun - Iceland - Marine Research Institute,,
+Data Protection:,Include on ICES website for free distribution.,,

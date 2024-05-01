@@ -1,0 +1,36 @@
+## East Greenland Slope Denmark Strait Overflow Water
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,East Greenland Slope Denmark Strait Overflow Water,,,,,
+Region:,Irminger Sea,,,,,
+Latitude:,59.6 N,,,,,
+Longitude:,38.8 W,,,,,
+Measurement Depth/Range:,Near Bottom,,,,,
+Long Term Averaging Period:,1991-2010,1991-2010,,,,
+Long Term Mean:,1.298,34.880,,,,
+Standard Deviation:,0.140,0.014,,,,
+Averaging Method:,Mean of all data each year,,,,,
+Notes:,The minimum over slope,,,,,
+Data Source:,Koninklijk Nederlands Instituut voor Zeeonderzoek (NIOZ) - Royal Netherlands Institute for Sea Research,,,,,
+Contact Name (email):,Femke de Jong (femke.de.jong@nioz.nl),,,,,
+Location of source datasets:,Koninklijk Nederlands Instituut voor Zeeonderzoek (NIOZ) - Royal Netherlands Institute for Sea Research,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

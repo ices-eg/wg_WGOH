@@ -1,0 +1,36 @@
+## North Sea - Utsira B
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,North Sea Utsire B,,,,,
+Region:,8&9,,,,,
+Latitude:,59 N,,,,,
+Longitude:,4 E,,,,,
+Measurement Depth/Range:,,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean:,8.34,35.332,,,,
+Standard Deviation:,0.57,0.048,,,,
+Averaging Method:,,,,,,
+Notes:,High salinity core of Atlantic Water at western edge of Norwegian Trench.,,,,,
+Data Source:,IMR - Institute of Marine Research - Norway,,,,,
+Contact Name (email):,Jon Albretsen (jon.albretsen@imr.no),,,,,
+Location of source datasets:,IMR - Institute of Marine Research - Norway,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

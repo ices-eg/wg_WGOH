@@ -1,0 +1,36 @@
+## Newfoundland Shelf - Station 27
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Station 27 - Newfoundland Shelf Temperature - Canada,,,,,
+Region:,2,,,,,
+Latitude:,47.55 N,,,,,
+Longitude:,52.59 W,,,,,
+Measurement Depth/Range:,0-176 m,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean:,0.6,32.4,,,,
+Standard Deviation:,0.5,0.1,,,,
+Averaging method:,,,,,,
+Notes:,,,,,,
+Data Source:,Northwest Atlantic Fisheries Centre - Canada,,,,,
+Contact Name (email):,Frederic Cyr (Frederic.Cyr@dfo-mpo.gc.ca),,,,,
+Location of source datasets:,Northwest Atlantic Fisheries Centre - Canada,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

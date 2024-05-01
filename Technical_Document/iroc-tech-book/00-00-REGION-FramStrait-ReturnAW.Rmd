@@ -1,0 +1,36 @@
+## Fram Strait - Return Atlantic Water
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Fram Strait - Return Atlantic Water,,,,,
+Region:,12,,,,,
+Latitude:,78.83 N,,,,,
+Longitude:,1 E,,,,,
+Measurement Depth/Range:,50-500 m,,,,,
+Long Term Averaging Period:,1993-2020,1993-2020,,,,
+Long Term Mean:,2.375,34.975,,,,
+Standard Deviation:,0.43,0.046,,,,
+Averaging Method:,Average of annual cruises,,,,,
+Notes:,Section Average 3 W to 5 E,,,,,
+Data Source:,AWI - Alfred Wegener Institute for Polar and Marine Research - Germany and NPI - Norwegian Polar Institute - Norway,,,,,
+Contact Name (email):,Wilken Jon von Appen (wjvappen@awi.de) and Paul Dodd (Paul.Dodd@npi.no),,,,,
+Location of source datasets:,AWI - PANGAEA data base and NPI - NMDC,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

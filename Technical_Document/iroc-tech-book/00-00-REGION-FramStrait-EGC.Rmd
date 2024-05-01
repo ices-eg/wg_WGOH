@@ -1,0 +1,36 @@
+## Fram Strait - East Greenland Current
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Fram Strait - East Greenland Current,,,,,
+Region:,12,,,,,
+Latitude:,78.83 N,,,,,
+Longitude:,6 W,,,,,
+Measurement Depth/Range:,50-500 m,,,,,
+Long Term Averaging Period:,1993-2020,1993-2020,,,,
+Long Term Mean:,0.727,34.618,,,,
+Standard Deviation:,0.474,0.126,,,,
+Averaging Method:,Average of annual cruises,,,,,
+Notes:,Section Average 3¡W to Shelf edge,,,,,
+Data Source:,AWI - Alfred Wegener Institute for Polar and Marine Research - Germany and NPI - Norwegian Polar Institute - Norway,,,,,
+Contact Name (email):,Wilken Jon von Appen (wjvappen@awi.de) and Paul Dodd (Paul.Dodd@npi.no),,,,,
+Location of source datasets:,AWI - PANGAEA data base and NPI - NMDC,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

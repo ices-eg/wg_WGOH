@@ -1,0 +1,36 @@
+## Western Channel Observatory - E1
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Western Channel Observatory (WCO) - E1 - UK,,,,,
+Region:,4b,,,,,
+Latitude:,50.0333 N,,,,,
+Longitude:,4.3667 W,,,,,
+Measurement Depth/Range:,0-40 m,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean:,12.8,35.26,,,,
+Standard Deviation:,0.76,0.06,,,,
+Averaging Method:,,,,,,
+Notes:,Data from CTD profiles. Different instruments used. Later period using SeaBird SBE19+,,,,,
+Data Source:,Marine Biological Association and Plymouth Marine Laboratory - UK,,,,,
+Contact Name (email):,Tim J. Smyth (tjsm@pml.ac.uk),,,,,
+Location of source datasets:,PML,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

@@ -1,0 +1,34 @@
+## Gulf of Cadiz - SP6 STOCA - 1-20 m
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:, SP6 STOCA - Gulf of Cadiz Time Series,
+Region:,Gulf of Cadiz,
+Latitude:,36.1446 N,
+Longitude:,6.7127 W,
+Area:,"POLYGON((-6.688 36.145, -6.692 36.159, -6.705 36.168, -6.720 36.168, -6.733 36.159, -6.738 36.145, -6.733 36.130, -6.720 36.121, -6.705 36.121, -6.692 36.130, -6.688 36.145))",
+Measurement Depth/Range:,1-20 m,
+Sampling Frequency:,quarterly,
+Notes:,,
+Data Source:,IEO - Instituto Espanol de Oceanografia - Spanish Institute of Oceanography - Spain,
+Contact Name (email):,Ricardo F. Sanchez Leal (rleal@ieo.csic.es),
+Location of source datasets:,IEO - Instituto Espanol de Oceanografia - Spanish Institute of Oceanography,
+Data Protection:,Include on ICES website for free distribution.,

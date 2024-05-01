@@ -1,0 +1,36 @@
+## Greenland - Nuuk Air Temperature
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Nuuk Air Temperature,,
+Region:,West Greenland,,
+Latitude:,64.2 N,,
+Longitude:,51.8 W,,
+Measurement Depth/Range:,Surface,,
+Long Term Averaging Period:,1981-2010,,
+Long Term Mean :,-1.37,,
+Standard Deviation:,1.52,,
+Averaging method:,,,
+Notes:,Reference: Cappelen J. (ed) 2021: Greenland - DMI Historical Climate Data Collection 1784-2020  DMI Report 21-04. Copenhagen,,
+Data Source:,Danish Meteorological Institute - Copenhagen,,
+Contact Name (email):,Boris Cisewski (boris.cisewski@thuenen.de),,
+Location of source datasets:,Danish Meteorological Institute - Copenhagen,,
+Data Protection:,Include on ICES website for free distribution,,

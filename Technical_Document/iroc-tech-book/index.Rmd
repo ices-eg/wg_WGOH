@@ -1,0 +1,52 @@
+--- 
+title: "Technical Documentation"
+author: "ICES Working Group on Oceanic Hydrography"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+# url: your book url like https://bookdown.org/yihui/bookdown
+# cover-image: path to the social sharing image like images/cover.jpg
+description: |
+  This is a minimal example of using the bookdown package to write a book.
+  The HTML output format for this example is bookdown::gitbook,
+  set in the _output.yml file.
+link-citations: yes
+# github-repo: rstudio/bookdown-demo
+---
+
+# About {-}
+
+This is document describes the technical detail behind the time series included in the **ICES Report on Ocean Climate**. 
+
+
+## Proposed order {-}
+1. Barents and Nordic Seas
+2. Baffin Bay
+3. North American Shelf
+4. Deep Basins
+5. North-East Subpolar Gyre
+6. North-West European Shelf
+7. Baltic Sea
+8. Biscay, Iberia and Canaries
+
+## Example Timeseries Section
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis

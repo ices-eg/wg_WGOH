@@ -1,0 +1,37 @@
+## Central Labrador Sea - 1000-1800 m
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Central Labrador Sea,,,,,,,,
+Region:,Labrador Sea,,,,,,,,
+Latitude:,57.51 N,,,,,,,,
+Longitude:,51.89 W,,,,,,,,
+Measurement Depth/Range:, 1000-1800 m,,,,,,,,
+Long Term Averaging Period:, 1981-2010, 1981-2010, 1981-2010,,,,,,
+Long Term Mean:, 3.3163, 34.8728, 27.753,,,,,,
+Long Term Standard Deviation:, 0.041275, 0.0027187, 0.0023787,,,,,,
+Area:,"POLYGON((-53.1770 55.9918, -53.8681 56.9547, -54.6382 57.7997, -54.7567 58.9001, -53.2856 59.9219, -52.4069 60.1184, -51.1432 59.8237, -49.6523 59.2538, -48.4676 58.5071, -48.3590 57.6032, -48.4500 57.1217, -49.2000 56.0999, -50.4126 55.4318, -52.0614 55.5791, -52.6044 55.9034, -53.1770 55.9918))",,,,,,,,
+Averaging method:, "Temperature, salinity and density annual anomalies are calculated relative to seasonal cycle and averaged annually",,,,,,,,
+Notes:, Latitude: 55.457-60.073 N; Longitude: 55.847-48.401 W; File: only_grid_merged_with_Argo_cleaned_central Central Labrador Sea loaded.mat,,,,,,,,
+Data Source:,Multiple sources,,,,,,,,
+Contact Name (email):, Igor Yashayaev (Igor.Yashayaev@dfo-mpo.gc.ca),,,,,,,,
+Location of source datasets:,"Fisheries and Oceans Canada, Bedford Institute of Oceanography, Dartmouth, NS, Canada",,,,,,,,
+Data Protection:, Include on ICES website for free distribution.,,,,,,,,

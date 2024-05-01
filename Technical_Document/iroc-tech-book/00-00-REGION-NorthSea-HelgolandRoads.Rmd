@@ -1,0 +1,36 @@
+## North Sea - Helgoland Roads
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,North Sea - Helgoland Roads,,,,,
+Region:,North Sea,,,,,
+Latitude:,54.1833 N,,,,,
+Longitude:,7.9 E,,,,,
+Measurement Depth/Range:,Surface,,,,,
+Long Term Averaging Period:,1981-2010,1981-2010,,,,
+Long Term Mean:,10.26,32.096,,,,
+Standard Deviation:,0.75,0.568,,,,
+Averaging Method:,Average of monthly means,,,,,
+Notes:,Data processing (monthly means) by BSH (alexander.frohse@bsh.de),,,,,
+Data Source:,Alfred-Wegener-Institut (AWI) - Helmholtz-Zentrum für Polar- und Meeresforschung,,,,,
+Contact Name (email):,Karen Wiltshire (karen.wiltshire@awi.de),,,,,
+Location of source datasets:,Alfred-Wegener-Institut (AWI) - Helmholtz-Zentrum für Polar- und Meeresforschung,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

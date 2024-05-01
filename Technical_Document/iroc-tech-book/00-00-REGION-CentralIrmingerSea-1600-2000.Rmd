@@ -1,0 +1,36 @@
+## Central Irminger Sea - Sub Labrador Sea Water
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Central Irminger Sea,Sub Labrador Sea Water,,,,
+Region:,Irminger Sea,,,,,
+Latitude:,59.4 N,,,,,
+Longitude:,36.8 W,,,,,
+Measurement Depth/Range:,1600-2000 m,,,,,
+Long Term Averaging Period:,1991-2010,1991-2010,,,,
+Long Term Mean:,3.155,34.891,,,,
+Standard Deviation:,0.125,0.024,,,,
+Averaging Method:,Mean of all data each year,,,,,
+Notes:,Annual survey of the AR7E section,,,,,
+Data Source:,Koninklijk Nederlands Instituut voor Zeeonderzoek (NIOZ) - Royal Netherlands Institute for Sea Research,,,,,
+Contact Name (email):,Femke de Jong (femke.de.jong@nioz.nl),,,,,
+Location of source datasets:,Koninklijk Nederlands Instituut voor Zeeonderzoek (NIOZ) - Royal Netherlands Institute for Sea Research,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

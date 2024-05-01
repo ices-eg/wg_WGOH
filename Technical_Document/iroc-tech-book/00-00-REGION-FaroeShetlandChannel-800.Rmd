@@ -1,0 +1,42 @@
+## Faroe-Shetland Channel - 800 dbar
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Faroe Shetland Channel 800dbar,,,,,
+Region:,Faroe Shetland Channel ,,,,,
+Latitude:,61.25 N,,,,,
+Longitude:,4.5 W,,,,,
+Measurement Depth/Range:,800 m,,,,,
+Area:,"MULTILINESTRING((-6.367 61.200,-3.733 60.617),(-6.200 62.000,-1.000 60.933))",,,,,
+Spatial Coverage: ,Data are extracted from the deep central stations along each of two standard sections  named FairIsle-Munken and Nolso-Flugga.,,,,,
+Vertical Coverage: ,Data from all stations at the 800dbar level are averaged,,,,,
+Temporal Coverage: ,Sampling typically occurs 3 times a year  (April/May then  Sep/Oct and Dec) however periods with higher or lower temporal coverage exist.,,,,,
+Seasonal Cycle: ,At this depth the seasonal cycle is not significant and therefore no seasonal treatement is necessary,,,,,
+Reference:,"W.R. Turrell, G. Slesser, R.D. Adams, R. Payne, and P.A. Gillibrand, 'Decadal Variability in the Composition of Faroe Shetland Channel Bottom Water', Deep Sea Research Part I: Oceanographic Research Papers, 46 (1999), 1-25.",,,,,
+Notes:,"Average properties at 800dbar are calculated from all station along two standard sections.  Note that the timeseries relates to properties of water at the level of the deep sill, which is the level at which water can pass unrestricted into the North Atlantic from the Nordic Seas.",,,,,
+Data Source:,MSS - Marine Scotland Science - Aberdeen - UK,,,,,
+Contact Name (email):,Bee Berx (b.berx@marlab.ac.uk),,,,,
+Location of source datasets:,MSS - Marine Scotland Science - Aberdeen - UK,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean:,-0.52,34.905,,,,
+Standard Deviation:,0.11,0.004,,,,
+Averaging method:,Annual data is extracted from filtered dataset using 2 year running mean,,,,,

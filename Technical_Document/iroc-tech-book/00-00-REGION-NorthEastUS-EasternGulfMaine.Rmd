@@ -1,0 +1,41 @@
+## Northeast US Continental Shelf - Eastern Gulf of Maine
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,NE US Continental Shelf - Eastern Gulf of Maine,,,,,
+Region:,Northeast US Continental Shelf,,,,,
+Latitude:,43 N,,,,,
+Longitude:,67 W,,,,,
+Measurement Depth/Range:,1-30 m,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean:,8.65,32.41,,,,
+Standard Deviation:,1.03,0.33,,,,
+Area:,"POLYGON((-68.00 41.80, -67.50 42.10, -67.00 42.10, -66.00 42.10, -66.00 43.00, -66.50 44.20, -67.00 44.20, -68.00 44.20, -68.00 41.80))",,,,,
+Spatial Coverage:,Station coverage varies spanning the prescribed polygon 
+Vertical Coverage:,Data represents average over 1-30m,,,,,
+Temporal Coverage:,Typically 3-6 surveys per year
+Seasonal Cycle:,A reference annual cycle is constructed for sub-region by fitting an annual harmonic to the collection of regional mean values from the period 1991-2020. Regional anomalies are calculated as the difference between the regional mean values and this reference annual cycle
+Averaging Method:,Regional T and S anomalies are calculated relative to a 1991-2020 seasonal cycle and annually averaged
+Notes:,Regional average T/S are are volume-weighted average of observations from single synoptic survey; subsequently averaged annually
+Data Source:,NOAA Fisheries - NEFSC - Oceans and Climate Branch - USA,,,,,
+Contact Name (email):,Paula Fratantoni (paula.fratantoni@noaa.gov),,,,,
+Location of source datasets:,Woods Hole - MA - USA,,,,,
+Data Protection:,Include on ICES website for free distribution. ,,,,,

@@ -1,0 +1,42 @@
+## North Sea - Sea Surface Temperature
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,North Sea SST,,
+Region:,North Sea,,
+Latitude:,55.99 N,,
+Longitude:,3.201 E,,
+Measurement Depth/Range:,Surface,,
+Long Term Averaging Period:,1991-2020,,
+Long Term Mean:,10.52,,
+Standard Deviation:,0.45,,
+Area:,"POLYGON((-3.95 51.17, 10.36 51.17, 10.36 60.81, -3.95 60.81, -3.95 51.17))",,
+Spatial Coverage:,Data is collected from variable number of stations within a fixed area.
+Vertical Coverage:,Data is averaged from 0 - 5 m.
+Temporal Coveraged:,Merged data hourly to weekly (in-situ and remote sensing).
+Seasonal Cycle:,Seasonal cycle has not been removed.
+Annual Calculations:,The annual calculation is an annual mean, calculated from monthly values.
+Reference:,Loewe, P. (Ed.), G. Becker, U. Brockmann, A. Frohse, K. Herklotz, H. Klein, A. Schulz, 2003: Nordsee und Deutsche Bucht 2002. Ozeanographischer Zustandsbericht. Berichte des Bundesamtes für Seeschifffahrt und Hydrographie, Nr. 33, 89pp.
+Notes:,https://www.bsh.de/EN/DATA/Climate-and-Sea/Sea_temperatures/Sea_surface_temperatures/sea_surface_temperatures_node.html
+Data Source:,BSH - German Federal Maritime and Hydrographic Agency,,
+Contact Name (email):,Dagmar Kieke (dagmar.kieke@bsh.de),Tim Kruschke (tim.kruschke@bsh.de),
+Location of source datasets:,BSH - German Federal Maritime and Hydrographic Agency,,
+Data Protection:,Include on ICES website.,,

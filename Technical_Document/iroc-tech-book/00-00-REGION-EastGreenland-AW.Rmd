@@ -1,0 +1,36 @@
+## East Greenland Sea - Atlantic Water
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Eastern Greenland Sea - Atlantic Water,,,,,
+Region:,12,,,,,
+Latitude:,75 N,,,,,
+Longitude:,11.5 E,,,,,
+Measurement Depth/Range:,50-150 m,,,,,
+Long Term Averaging Period:,1994-2020,1994-2020,,,,
+Long Term Mean:,4.607,35.097,,,,
+Standard Deviation:,0.535,0.041,,,,
+Averaging Method:,Once per year,,,,,
+Notes:,Section Average between 10-13 E,,,,,
+Data Source:,AWI - Alfred Wegener Institute for Polar and Marine Research - Germany and IOPAN - Institute of Oceanology Polish Academy of Sciences - Poland,,,,,
+Contact Name (email):,Wilken Jon von Appen (wjvappen@awi.de) and Agnieszka Beszczynska-Möller (abesz@iopan.pl),,,,,
+Location of source datasets:,AWI - PANGAEA data base (until 2010) and IOPAN - IOPAN data base (from 2011 on),,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

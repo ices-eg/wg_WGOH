@@ -1,0 +1,36 @@
+## Norwegian Sea - Ocean Weather Station Mike - 50 m
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Ocean Weather Station Mike,,,,,
+Region:,Norwegian Sea,,,,,
+Latitude:,66 N,,,,,
+Longitude:,2 E,,,,,
+Measurement Depth/Range:,50 m,0,,,,
+Long Term Averaging Period:,1981-2010,1981-2010,,,,
+Long Term Mean:,7.707,35.176,,,,
+Standard Deviation:,0.441,0.036,,,,
+Averaging Method:,Monthly,,,,,
+Notes:,Temperature Deseasoned,,,,,
+Data Source:,Geophysical Institute - University of Bergen - Norway,,,,,
+Contact Name (email):,Svein Osterhus (Svein.Osterhus@gfi.uib.no),,,,,
+Location of source datasets:,Geophysical Institute - University of Bergen - Norway,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

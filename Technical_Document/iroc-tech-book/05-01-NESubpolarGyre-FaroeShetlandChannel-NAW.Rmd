@@ -1,0 +1,44 @@
+# North-East Subpolar Gyre
+
+## Faroe-Shetland Channel - North Atlantic Water
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description,Faroe Shetland Channel - Shetland Shelf (North Atlantic Water),,,,,
+Region:,Faroe Shetland Channel ,,,,,
+Latitude:,61 N,,,,,
+Longitude:,3 W,,,,,
+Measurement Depth/Range:,Upper Layer - typically between  0-200m,,,,,
+Area:,"MULTILINESTRING((-6.367 61.200,-3.733 60.617),(-6.200 62.000,-1.000 60.933))",,,,,
+Spatial Coverage:,Data are extracted from the first two standard station on Shetland Shelf along each of two standard sections  named FairIsle-Munken and Nolso-Flugga.,,,,,
+Vertical Coverage:,The high salinity core is identified and data from this depth are extracted.,,,,,
+Temporal Coverage:,Sampling typically occurs 3 times a year  (April/May then  Sep/Oct and Dec) however periods with higher or lower temporal coverage exist.,,,,,
+Seasonal Cycle:,The seasonal cycle of temperature is described for each depth level and removed prior to identifying the high salinity core,,,,,
+Reference:,The Scottish Ocean Climate Status Report. Hughes S.L. (ed.) Marine Scotland Report.,,,,,
+Notes:,Properties of NAW are calculated as the T and S of the salinity maxima in first two sections on Shetland Shelf.  Note that the timeseries relates to properties of a water mass and not a specific location,,,,,
+Data Source:,MSS - Marine Scotland Science - Aberdeen - UK,,,,,
+Contact Name (email):,Bee Berx (b.berx@marlab.ac.uk),,,,,
+Location of source datasets:,MSS - Marine Scotland Science - Aberdeen - UK,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean,9.97,35.392,,,,
+Standard Deviation,0.43,0.048,,,,
+Averaging method:,Annual data is extracted from filtered dataset using 2 year running mean,,,,,

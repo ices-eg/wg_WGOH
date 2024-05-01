@@ -1,0 +1,36 @@
+## Baltic Sea - LL15
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Baltic - LL15 - Baltic Sea,,,,,
+Region:,Baltic Sea,,,,,
+Latitude:,59.18 N,,,,,
+Longitude:,21.75 E,,,,,
+Measurement Depth/Range:,120 m,,,,,
+Long Term Averaging Period:,1981-2010,1981-2010,,,,
+Long Term Mean:,5.21,10.348,,,,
+Standard Deviation:,0.43,0.455,,,,
+Averaging Method:,Seasonal mean,,,,,
+Notes:,,,,,,
+Data Source:,FMI - Finnish Meteorological Institute - Finland,,,,,
+Contact Name (email):,Pekka Alenius (pekka.alenius@fmi.fi),,,,,
+Location of source datasets:,FMI - Finnish Meteorological Institute - Finland,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,

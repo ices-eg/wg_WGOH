@@ -1,0 +1,42 @@
+## North Sea - Fair Isle Current Water
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Fair Isle Current Water (Waters entering North Sea from Atlantic),,,,,
+Region:,North Sea,,,,,
+Latitude:,59 N,,,,,
+Longitude:,2 W,,,,,
+Measurement Depth/Range:,0-100 m,,,,,
+Area:,"LINESTRING(-2.233 59.283, -1.933 59.283)",,,,,
+Spatial Coverage:, Data are collected from the first two standard stations on the JONSIS line,,,,,
+Vertical Coverage: ,Average over the depth range,,,,,
+Temporal Coverage: ,Sampling typically occurs 3 times a year  (April/May then  Sep/Oct and Dec) however periods with higher or lower temporal coverage exist.,,,,,
+Seasonal Cycle: ,Seasonal cycle of temperature is described for each depth level and removed.,,,,,
+Reference:,The Scottish Ocean Climate Status Report. Hughes S.L. (ed.) Marine Scotland Report.,,,,,
+Notes:,Mean T and S in first two stations on Jonsis Line,,,,,
+Data Source:,MSS - Marine Scotland Science - Aberdeen - UK,,,,,
+Contact Name (email):,Bee Berx (b.berx@marlab.ac.uk),,,,,
+Location of source datasets:,MSS - Marine Scotland Science - Aberdeen - UK,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean:,10.148,34.870,,,,
+Standard Deviation:,0.57,0.150,,,,
+Averaging Method:,Annual data is extracted from filtered dataset using 2 year running mean,,,,,

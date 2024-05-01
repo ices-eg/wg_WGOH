@@ -1,0 +1,36 @@
+## Faroe Bank Channel - Upper Layer High Salinity Core
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Faroe Bank Channel - West Faroe Islands,,,,,,,,,,,
+Region:,6,,,,,,,,,,,
+Latitude:,61.4 N,,,,,,,,,,,
+Longitude:,8.3 W,,,,,,,,,,,
+Measurement Depth/Range:,Upper Layer High Salinity Core,,,,,,,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,,,,,,,
+Long Term Mean:,8.823,35.293,,,,,,,,,,
+Standard Deviation:,0.319,0.050,,,,,,,,,,
+Averaging Method:,Average of 3-4 cruises,,,,,,,,,,,
+Notes:,Upper Layer High Salinity Core - Seasonality Removed,,,,,,,,,,,
+Data Source:,Havstovan - Faroe - Faroe Marine Research Institute,,,,,,,,,,,
+Contact Name (email):,Karin Margretha H. Larsen (KarinL@hav.fo),,,,,,,,,,,
+Location of source datasets:,Havstovan - Faroe - Faroe Marine Research Institute,,,,,,,,,,,
+Data Protection:,Include on ICES website for free distribution.,,,,,,,,,,,

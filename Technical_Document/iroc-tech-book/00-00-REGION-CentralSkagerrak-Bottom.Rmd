@@ -1,0 +1,36 @@
+## Central Skagerrak - Bottom-water
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Central Skagerrak,,,
+Region:,9,,,
+Latitude:,58.1333 N,,,
+Longitude:,9.1833 E,,,
+Measurement Depth/Range:,Bottom-water,600m,,
+Long Term Averaging Period:,1981-2010,,,
+Long Term Mean:,5.882,35.127,,
+Standard Deviation:,0.577,0.056,,
+Averaging Method:,,Monthly anomalies,,
+Notes:,Skagerrak bottom-water properties (600m).,,,
+Data Source:,IMR - Institute of Marine Research - Norway,,,
+Contact Name (email):,Jon Albretsen (jon.albretsen@imr.no),,,
+Location of source datasets:,IMR - Institute of Marine Research - Norway,,,
+Data Protection:,Include on ICES website for free distribution.,,,

@@ -1,0 +1,42 @@
+## Barents Sea - Kola Section
+
+**Description:** 
+
+
+**Found in:**
+
+**Contributor(s):**
+
+**Data steward:**
+
+**Point of contact:**
+
+### Data sources
+
+### Data aggregation
+
+### Quality assurance
+
+### Data analysis
+
+### Header from file
+Station Description:,Kola Section - Eastern Barents Sea,,,,,
+Region:,Barents Sea,,,,,
+Latitude:,71.5 N,,,,,
+Longitude:,33.5 E,,,,,
+Measurement Depth/Range:,0-200 m,,,,,
+Long Term Averaging Period:,1991-2020,1991-2020,,,,
+Long Term Mean:,4.566,34.778,,,,
+Standard Deviation:,0.473,0.053,,,,
+Area:,"LINESTRING(33.5 70.5, 33.5 71.0, 33.5 71.5, 33.5 72.0, 33.5 72.5)"
+Averaging Method:,Anomalies calculated from annual mean,,,,,
+Spatial Coverage:,Data is collected from a fixed set of stations (from one section)
+Vertical Coverage:,Data is averaged from 0-200 m
+Temporal Coverage:,6-12 surveys per year
+Annual Calculations:,The annual value is an average of the sampled data
+Reference:,Karsakov, A. L., Trofimov, A. G., Antsiferov, M. Yu., Ivshin, V. A., Gubanishchev, M. A. (2022) 120 years of oceanographic observations along the Kola Section. Murmansk: PINRO named after N.M. Knipovich. 143 pp. (in Russian)
+Notes:,The timeseries are available at the PINRO's website (http://pinro.vniro.ru),,,,,
+Data Source:,PINRO - Polar Branch of the Russian Federal Research Institute of Fisheries and Oceanography - Russia,,,,,
+Contact Name (email):,Alexander G. Trofimov (trofimov@pinro.ru),,,,,
+Location of Source Datasets:,PINRO,,,,,
+Data Protection:,Include on ICES website for free distribution,,,,,
