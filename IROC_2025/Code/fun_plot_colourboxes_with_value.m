@@ -1,5 +1,18 @@
 function figh = fun_plot_colourboxes_with_value(Xdata,Ydata,Zdata,Zdata2,Ylabels,cmap,FigTitle)
 
+%finds out format for the number of decimal places for Zdata2
+tmp_e1 = Zdata2-round(Zdata2.*10)/10;
+tmp_e2 = Zdata2-round(Zdata2.*100)/100;
+tmp_e3 = Zdata2-round(Zdata2.*1000)/1000;
+if median(tmp_e1(:),'omitnan')==0
+    dpfmt = 1;
+elseif median(tmp_e2(:),'omitnan')==0
+    dpfmt = 2;
+elseif median(tmp_e3(:),'omitnan')==0
+    dpfmt = 3;
+else
+    dpfmt = 2;
+end
 
 figh = figure;
 ax1=axes;hold on,%ax2 = axes;set(ax2,'color','none')
@@ -28,10 +41,14 @@ for ir = 1:rr
             patch(Xdata(ic)+[-0.5,0.5,0.5,-0.5,-0.5],Ydata(ir)+[-0.5,-0.5,0.5,0.5,-0.5],'w','edgecolor',[.2 .2 .2])
         else
             if ~isnan(Zdata2(ir,ic))
-                if Zdata2(ir,ic)-round(Zdata2(ir,ic).*100)/100 ==0
+                switch dpfmt
+                    case 1
+                    text(ax1,Xdata(ic),Ydata(ir),sprintf('%5.1f',Zdata2(ir,ic)),...
+                        'verticalalignment','middle','horizontalalignment','center','color','k','fontsize',12,'rotation',0)
+                    case 2
                     text(ax1,Xdata(ic),Ydata(ir),sprintf('%5.2f',Zdata2(ir,ic)),...
                         'verticalalignment','middle','horizontalalignment','center','color','k','fontsize',12,'rotation',0)
-                else
+                    case 3
                     text(ax1,Xdata(ic),Ydata(ir),sprintf('%5.3f',Zdata2(ir,ic)),...
                         'verticalalignment','middle','horizontalalignment','center','color','k','fontsize',12,'rotation',0)
                 end
@@ -41,3 +58,4 @@ for ir = 1:rr
 end
 title(FigTitle)
 set(gcf,'color','w')
+
