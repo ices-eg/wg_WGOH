@@ -27,7 +27,7 @@ clear tmp
 IROC_annual_time = [1890:1:2024]';
 IROC_annual_data = NaN.*zeros(size(IROC_annual_time,1),6,size(flist,1));
 IROC_annual_name(1:size(flist,1),1) = {' '};
-
+IROC_HLines = NaN.*zeros(size(flist,1),1);
 % consolidate time series (in order listed in directory)
 for ff=1:size(flist,1)
     data_filename = flist(ff,:);
@@ -46,6 +46,7 @@ for ff=1:size(flist,1)
         end
         NumHeadLines = NumHeadLines +1;
     end
+    IROC_HLines(ff)=NumHeadLines-1;
     fid = fclose(fid);clear fid bline
     data = readtable([IROC_datafolder,data_filename],'NumHeaderLines',NumHeadLines-1);
     [~,idxT,idxI] = intersect(data{:,1},IROC_annual_time);
