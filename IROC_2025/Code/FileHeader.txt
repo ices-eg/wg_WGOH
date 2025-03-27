@@ -1,0 +1,32 @@
+# Index: 
+# Station Description: 
+# Region: 
+# Latitude: 
+# Longitude: 
+# Area: 
+# Spatial Coverage: 
+# Vertical Coverage: 
+# Temporal Coverage: 
+# Sampling Frequency: 
+# Measurement Depth/Range: 
+# Long Term Averaging Period: 
+# Long Term Mean: 
+# Long Term Standard Deviation: 
+# Averaging method: 
+# Seasonal Cycle: 
+# Annual Calculations: 
+# Notes: 
+# Data Source: 
+# Contact Name (email): 
+# Location of source datasets: 
+# Data Protection: 
+# Reference: 
+
+Year,Temperature °C,Temperature Anomaly °C,Temperature Anomaly Normalised,Salinity,Salinity Anomaly,Salinity Anomaly Normalised
+Decimal Year,Temperature Deseasoned °C,Temperature Anomaly °C,Temperature Anomaly Normalised °C,Salinity Deseasoned,Salinity Anomaly,Salinity Anomaly Normalised
+Year,Air Temperature °C,Temperature Anomaly °C,Temperature Anomaly Normalised °C
+Decimal Year,Temperature °C,Temperature Anomaly °C,Temperature Anomaly Normalised °C,Salinity ,Salinity Anomaly,Salinity Anomaly Normalised
+Decimal Year,Temperature °C,Temperature Anomaly °C, Temperature Anomaly Normalised °C, Salinity, Salinity Anomaly, Salinity Anomaly Normalised
+Year,Temperature °C,Temperature Anomaly °C,Temperature Anomaly Normalised °C,Salinity,Salinity Anomaly,Salinity Anomaly Normalised,Density,Density Anomaly,Density Anomaly Normalised
+Year,Inflow (Sv),Outflow (Sv),Net Flow (Sv)
+Decimal Year,Seasonal average (JFMA) Ice Area (1000 km^2),Maximum weekly Ice Area (10000 km2)
