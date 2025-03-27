@@ -49,9 +49,20 @@ IROC_newregions.region7 = [NaN,NaN];
 IROC_newregions.region7 = regiondata.region1(:,2:3);
 
 %%%% BAFFIN %%%%
-% taking the pre-defined region from the LME file
-IROC_newregions.region1 = regiondata.region15(:,2:3);
-
+% taking the pre-defined region from the LME file but replace the 1000 m
+% contour
+c1 = regiondata.region15(1:19,2:3);
+cutoffR = regiondata.region15(20,2);
+cutoffL = regiondata.region15(29,3);
+[x1,y1]=contour(sub5.xx(661:end,1:720),sub5.yy(661:end,1:720),sub5.eta(1:720,661:end)',[-1000 -1000],'c');
+tmpc = [x1(1,2:645)',x1(2,2:645)'];
+tmpc(tmpc(:,1)>cutoffR,:)=[];
+tmpc(intersect(find(tmpc(:,2)<cutoffL),find(tmpc(:,1)<-55)),:)=[];
+tmpc(tmpc(:,2)<58,:)=[];
+c2 = cat(1,tmpc(1:5:385,:),tmpc(end,:));
+c3 = regiondata.region15(30:end,2:3);
+IROC_newregions.region1 = cat(1,c1,c2(end:-1:1,:),c3);
+clear c1 c2 c3 tmpc cutoffL cutoffR
 
 %%%% Northeast American Shelf %%%%%
 c1 = setdiff(regiondata.region4(:,[2:3]),regiondata.region5(:,[2:3]),'rows','stable');%boundary of Scotian Shelf
@@ -133,7 +144,8 @@ c4 =  IROC_newregions.region5(15:-1:2,:);
 %[x1,y1]=contour(sub5.xx(idx2,idx1),sub5.yy(idx2,idx1),sub5.eta(idx1,idx2)',[-750 -750],'m');
 %c5 = x1(:,807:-1:601)';% northern-ish boundary 750 m contour
 %clear idx1 idx2 x1 y1
-c6 = IROC_newregions.region1(20:29,:);%NW boundary - Baffin Bay edge
+%c6 = IROC_newregions.region1(20:29,:);%NW boundary - Baffin Bay edge
+c6 =  IROC_newregions.region1(20:97,:);%NW boundary - Baffin Bay edge
 % IROC_newregions.region3 = cat(1,c1,c2,c3,c4,c5,c6);
 IROC_newregions.region3 = cat(1,c1,c2,c2b,c3,c4,c6);
 
