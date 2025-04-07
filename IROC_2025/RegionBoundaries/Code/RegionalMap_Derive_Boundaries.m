@@ -48,7 +48,7 @@ IROC_newregions.regionshort1 = 'BBAY';
 IROC_newregions.regionshort2 = 'NEAS';
 IROC_newregions.regionshort3 = 'SPNA';
 IROC_newregions.regionshort4 = 'BICC';
-    IROC_newregions.regionshort5 = 'NSBS';
+IROC_newregions.regionshort5 = 'NSBS';
 IROC_newregions.regionshort6 = 'NWES';
 IROC_newregions.regionshort7 = 'BALT';
 
