@@ -44,25 +44,43 @@ IROC_newregions.region5 = [NaN,NaN];
 IROC_newregions.region6 = [NaN,NaN];
 IROC_newregions.region7 = [NaN,NaN];
 
+IROC_newregions.regionshort1 = 'BBAY';
+IROC_newregions.regionshort2 = 'NEAS';
+IROC_newregions.regionshort3 = 'SPNA';
+IROC_newregions.regionshort4 = 'BICC';
+IROC_newregions.regionshort5 = 'NSBS';
+IROC_newregions.regionshort6 = 'NWES';
+IROC_newregions.regionshort7 = 'BALT';
+
 %%%% BALTIC %%%%
 % taking the pre-defined region from the LME file
-IROC_newregions.region7 = regiondata.region1(:,2:3);
+%IROC_newregions.region7 = regiondata.region1(:,2:3);
+%    07-April-2025: incorporating edited file from D Kieke (edit to boundary with NWES). 
+c = load('IROC_2025_RegionalBoundaries_BALT_revised_DKieke.csv');
+IROC_newregions.region7 = c(:,[3,2]);
+clear c
+
 
 %%%% BAFFIN %%%%
 % taking the pre-defined region from the LME file but replace the 1000 m
 % contour
-c1 = regiondata.region15(1:19,2:3);
-cutoffR = regiondata.region15(20,2);
-cutoffL = regiondata.region15(29,3);
-[x1,y1]=contour(sub5.xx(661:end,1:720),sub5.yy(661:end,1:720),sub5.eta(1:720,661:end)',[-1000 -1000],'c');
-tmpc = [x1(1,2:645)',x1(2,2:645)'];
-tmpc(tmpc(:,1)>cutoffR,:)=[];
-tmpc(intersect(find(tmpc(:,2)<cutoffL),find(tmpc(:,1)<-55)),:)=[];
-tmpc(tmpc(:,2)<58,:)=[];
-c2 = cat(1,tmpc(1:5:385,:),tmpc(end,:));
-c3 = regiondata.region15(30:end,2:3);
-IROC_newregions.region1 = cat(1,c1,c2(end:-1:1,:),c3);
-clear c1 c2 c3 tmpc cutoffL cutoffR
+% c1 = regiondata.region15(1:19,2:3);
+% cutoffR = regiondata.region15(20,2);
+% cutoffL = regiondata.region15(29,3);
+% [x1,y1]=contour(sub5.xx(661:end,1:720),sub5.yy(661:end,1:720),sub5.eta(1:720,661:end)',[-1000 -1000],'c');
+% tmpc = [x1(1,2:645)',x1(2,2:645)'];
+% tmpc(tmpc(:,1)>cutoffR,:)=[];
+% tmpc(intersect(find(tmpc(:,2)<cutoffL),find(tmpc(:,1)<-55)),:)=[];
+% tmpc(tmpc(:,2)<58,:)=[];
+% c2 = cat(1,tmpc(1:5:385,:),tmpc(end,:));
+% c3 = regiondata.region15(30:end,2:3);
+% IROC_newregions.region1 = cat(1,c1,c2(end:-1:1,:),c3);
+% clear c1 c2 c3 tmpc cutoffL cutoffR
+%     07-April-2025: incorporating edited file from F Cyr (edit to boundary in Canadian archipelago).
+c = load('IROC_2025_RegionalBoundaries_BB_FCyr.csv');
+IROC_newregions.region1 = c(:,[3,2]);
+clear c
+
 
 %%%% Northeast American Shelf %%%%%
 c1 = setdiff(regiondata.region4(:,[2:3]),regiondata.region5(:,[2:3]),'rows','stable');%boundary of Scotian Shelf
@@ -79,17 +97,21 @@ IROC_newregions.region2 = cat(1,c2(1:end-2,:),c4(1086:end,:),c4(1:1085,:),c1(1:3
 clear c1 c2 c3 c4
 
 %%%% Northwest European Shelf %%%%%
-[x1,y1]=contour(sub5.xx(565:756,1009:1356),sub5.yy(565:756,1009:1356),sub5.eta(1009:1356,565:756)',[-500 -500],'g');
-c1 = [x1(1,407:1009)',x1(2,407:1009)'];%500 m contour on the west
-c2 = [regiondata.region1(4,2),x1(2,1009)];%point on EU continent at level of southern edge shelf
-c3 = regiondata.region1(4:31,2:3);%Baltic Sea boundary
-c4 = [regiondata.region1(31,2),x1(2,407)];%point in scandinavia at level of Norwegian shelf edge
-c5 = [x1(1,407),x1(2,407)];%first point of 500 m contour off Norway to close the shape
-% plot(c1(:,1),c1(:,2),'k.-',c2(:,1),c2(:,2),'b.-',c3(:,1),c3(:,2),'m.-',...
-%     c4(:,1),c4(:,2),'g.-',c5(:,1),c5(:,2),'c.-')
-IROC_newregions.region6 = cat(1,c1,c2,c3,c4,c5);
-IROC_newregions.region6(168:189,:)=[];%cut out kink at WTR
-clear c1 c2 c3 c4 c5 x1 y1
+% [x1,y1]=contour(sub5.xx(565:756,1009:1356),sub5.yy(565:756,1009:1356),sub5.eta(1009:1356,565:756)',[-500 -500],'g');
+% c1 = [x1(1,407:1009)',x1(2,407:1009)'];%500 m contour on the west
+% c2 = [regiondata.region1(4,2),x1(2,1009)];%point on EU continent at level of southern edge shelf
+% c3 = regiondata.region1(4:31,2:3);%Baltic Sea boundary
+% c4 = [regiondata.region1(31,2),x1(2,407)];%point in scandinavia at level of Norwegian shelf edge
+% c5 = [x1(1,407),x1(2,407)];%first point of 500 m contour off Norway to close the shape
+% % plot(c1(:,1),c1(:,2),'k.-',c2(:,1),c2(:,2),'b.-',c3(:,1),c3(:,2),'m.-',...
+% %     c4(:,1),c4(:,2),'g.-',c5(:,1),c5(:,2),'c.-')
+% IROC_newregions.region6 = cat(1,c1,c2,c3,c4,c5);
+% IROC_newregions.region6(168:189,:)=[];%cut out kink at WTR
+% clear c1 c2 c3 c4 c5 x1 y1
+%     07-April-2025: incorporating edited file from D Kieke (edit to adjust Baltic Sea boundary).
+c = load('IROC_2025_RegionalBoundaries_NWES_revised_DKieke.csv');
+IROC_newregions.region6 = c(:,[3,2]);
+clear c
 
 
 %%%% Nordic and Barents Sea %%%%
@@ -127,26 +149,31 @@ IROC_newregions.region4 = cat(1,c(1:45,[3,2]),IROC_newregions.region6(581,:),...
 clear c
 
 %%%% Subpolar Gyre %%%%
-c1 = IROC_newregions.region2(484:1390,:);%western boundary is shelf of NAS
-x1 = IROC_newregions.region2(1390,:);
-y1 = IROC_newregions.region6(581,:);
-x2 = linspace(x1(1),y1(1),30);
-y2 = linspace(x1(2),y1(2),30);
-%c2 = [x2',y2'];%southern boundary across the open ocean
-c2 = [x2(1:12)',y2(1:12)'];%southern boundary across the open ocean
-clear x1 y1 x2 y2
-c2b = IROC_newregions.region4(44:46,:);
-c3 = IROC_newregions.region6(581:-1:170,:);%south-eastern boundary is shelf edge NWES
-%c4 = IROC_newregions.region5(662:-1:12,:);%north-eastern boundary is GSR from NBS
-c4 =  IROC_newregions.region5(15:-1:2,:);
-%idx1 = intersect(find(sub5.lon>=-65),find(sub5.lon<=-30));
-%idx2 = intersect(find(sub5.lat>=54),find(sub5.lat<=66));
-%[x1,y1]=contour(sub5.xx(idx2,idx1),sub5.yy(idx2,idx1),sub5.eta(idx1,idx2)',[-750 -750],'m');
-%c5 = x1(:,807:-1:601)';% northern-ish boundary 750 m contour
-%clear idx1 idx2 x1 y1
-%c6 = IROC_newregions.region1(20:29,:);%NW boundary - Baffin Bay edge
-c6 =  IROC_newregions.region1(20:97,:);%NW boundary - Baffin Bay edge
-% IROC_newregions.region3 = cat(1,c1,c2,c3,c4,c5,c6);
-IROC_newregions.region3 = cat(1,c1,c2,c2b,c3,c4,c6);
+% c1 = IROC_newregions.region2(484:1390,:);%western boundary is shelf of NAS
+% x1 = IROC_newregions.region2(1390,:);
+% y1 = IROC_newregions.region6(581,:);
+% x2 = linspace(x1(1),y1(1),30);
+% y2 = linspace(x1(2),y1(2),30);
+% %c2 = [x2',y2'];%southern boundary across the open ocean
+% c2 = [x2(1:12)',y2(1:12)'];%southern boundary across the open ocean
+% clear x1 y1 x2 y2
+% c2b = IROC_newregions.region4(44:46,:);
+% c3 = IROC_newregions.region6(581:-1:170,:);%south-eastern boundary is shelf edge NWES
+% %c4 = IROC_newregions.region5(662:-1:12,:);%north-eastern boundary is GSR from NBS
+% c4 =  IROC_newregions.region5(15:-1:2,:);
+% %idx1 = intersect(find(sub5.lon>=-65),find(sub5.lon<=-30));
+% %idx2 = intersect(find(sub5.lat>=54),find(sub5.lat<=66));
+% %[x1,y1]=contour(sub5.xx(idx2,idx1),sub5.yy(idx2,idx1),sub5.eta(idx1,idx2)',[-750 -750],'m');
+% %c5 = x1(:,807:-1:601)';% northern-ish boundary 750 m contour
+% %clear idx1 idx2 x1 y1
+% %c6 = IROC_newregions.region1(20:29,:);%NW boundary - Baffin Bay edge
+% c6 =  IROC_newregions.region1(20:97,:);%NW boundary - Baffin Bay edge
+% % IROC_newregions.region3 = cat(1,c1,c2,c3,c4,c5,c6);
+% IROC_newregions.region3 = cat(1,c1,c2,c2b,c3,c4,c6);
+%     07-April-2025: incorporating edited file from D Debruyeres (edit to boundary off Greenland).
+c = load('IROC_2025_RegionalBoundaries_SPNA_DDesbruyeres.csv');
+IROC_newregions.region3 = c(:,[3,2]);
+clear c
+
 
 save IROC_2025_regions.mat IROC_newregions
