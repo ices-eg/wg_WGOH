@@ -1,0 +1,19 @@
+%% script to set the timeseries selection for the summary figures
+
+BBAY_TS = {};
+
+NEAS_TS = {'USA_nwGeorges_Bank_Annual.csv';
+'GulfStLawrence_Timeseries.csv';
+'Newf_Station27_Annual.csv'};
+
+SPNA_TS = {};
+
+NSBS_TS = {};
+
+NWES_TS = {};
+
+BALT_TS = {'Baltic_BY15_Annual.csv'};
+
+BICC_TS = {};
+
+IROC_TS = cat(1,BBAY_TS,NEAS_TS,SPNA_TS,NSBS_TS,NWES_TS,BALT_TS,BICC_TS);
