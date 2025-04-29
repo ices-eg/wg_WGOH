@@ -10,7 +10,9 @@ SPNA_TS = {};
 
 NSBS_TS = {};
 
-NWES_TS = {};
+NWES_TS = {'North_Sea_HelgolandRoads_Annual.csv';
+'Skagerrak_0-10_Surface-water_Annual.csv';
+'North_Sea_HelgolandRoads_Annual.csv'};
 
 BALT_TS = {'Baltic_BY15_Annual.csv'};
 
